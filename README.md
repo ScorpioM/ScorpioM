@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 **娱乐工具**<br/><br/>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
-<code><img height="20" src="https://pic4.zhimg.com/80/v2-c1141bf3b5bc839a3ddcaf471c04be6b_720w.jpg"></code>
+<code><img height="20" src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=365296249,3488832970&fm=26&gp=0.jpg"></code>
