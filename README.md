@@ -66,3 +66,5 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
 <code><img height="20" src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=365296249,3488832970&fm=26&gp=0.jpg"></code>
+<code><img height="20" src="https://down.52pk.com/uploads/170921/5029_115550594.png"></code>
+<code><img height="20" src="https://dss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2768577378,2794393751&fm=26&gp=0.jpg"></code>
