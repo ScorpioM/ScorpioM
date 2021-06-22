@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - 📫 这是我的邮箱：mt_scorpio@sina.cn
 - 🌱 我正在学习 **TypeScript & 英语**. <br/><br/>
 **技术栈 & 开发工具**<br/><br/>
-<img align="right"  src="https://raw.githubusercontent.com/kmoroz/kmoroz/master/readme.gif" alt="MaxMa" width="300"/>
+
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
