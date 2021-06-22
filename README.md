@@ -51,18 +51,18 @@ Here are some ideas to get you started:
 - 期间遇到过瓶颈期，遇到过很多困难，也当过一段时间的**老师**
 - **但幸运的是我还是选择了它 ❤️**
 
-
+**谈正事**
 - 🔭 我目前工作于湖南长沙 [湖南云畔网络科技有限公司](https://baike.baidu.com/item/%E6%B9%96%E5%8D%97%E4%BA%91%E7%95%94%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/23809593?fr=aladdin)
 - 👨‍🏛 我毕业于一所统招二本院校 **怀化学院**.
 - 💬如果你对我感兴趣的话，可以加我微信(Scorpio_mt_nov)进一步沟通
 - 📫 这是我的邮箱：mt_scorpio@sina.cn
-- 🌱 我正在学习 **TypeScript & 英语**. <br/>
-**技术栈 & 开发工具**<br/>
+- 🌱 我正在学习 **TypeScript & 英语**. <br/><br/>
+**技术栈 & 开发工具**<br/><br/>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
-**娱乐工具**<br/>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code><br/><br/>
+**娱乐工具**<br/><br/>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
 <code><img height="20" src="https://pic4.zhimg.com/80/v2-c1141bf3b5bc839a3ddcaf471c04be6b_720w.jpg"></code>
