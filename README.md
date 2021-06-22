@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <br/>
-<img align="right"  src="https://pic4.zhimg.com/80/v2-c1141bf3b5bc839a3ddcaf471c04be6b_720w.jpg" alt="MaxMa" style="width:100px;height:100px" />
+<img align="right"  src="https://pic4.zhimg.com/80/v2-c1141bf3b5bc839a3ddcaf471c04be6b_720w.jpg" alt="MaxMa" width:"30%"/>
 
 - 我的逻辑能力较强，所以在项目沟通上是较为顺畅的 **(幸运 🌍).** 
 - 我喜欢去用 **现有的编程知识**去想象构建新奇的东西
