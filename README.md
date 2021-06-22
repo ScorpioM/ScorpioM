@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://mail.google.com/ ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
+</a><br/>
 
 🔭 我目前工作于湖南长沙 [湖南云畔网络科技有限公司](https://baike.baidu.com/item/%E6%B9%96%E5%8D%97%E4%BA%91%E7%95%94%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/23809593?fr=aladdin)<br/>
 💬如果你对我感兴趣的话，可以加我微信(Scorpio_mt_nov)进一步沟通<br/>
