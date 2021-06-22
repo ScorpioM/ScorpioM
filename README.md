@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
  Hi！大家好呀，我是一名web前端开发工程师👋<br/>
-我叫Max 出生于1999年，是怀化学院计算机科学专业的本科学生。我是一个web前端开发人员，目前已有了两年的工作经验。我的技术栈涉及Vue.js,React.js,基于vue的Element-ui，Ant design，iview框架，前端可视化库Echarts和HTML/CSS/Bootstrap。除了编程，我对音乐，篮球，田径也有极大的兴趣。<br/>
+我叫Max 出生于1999年，是怀化学院计算机科学专业的本科学生。我是一个web前端开发人员，目前已有了两年的工作经验。我的技术栈涉及Vue.js,React.js,基于vue的Element-ui，Ant design，iview框架，前端可视化库Echarts和HTML/CSS/Bootstrap。除了编程，我对音乐，篮球，田径也有极大的兴趣。
+<br/>
+<br/>
 **经常逛的网站**<br/>
 <a href="https://medium.com/">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
@@ -35,8 +37,18 @@ Here are some ideas to get you started:
 </a>
 <a href="https://mail.google.com/ ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a><br/>
+</a>
+<br/>
 
+
+- 我的逻辑能力较强，所以在项目沟通上是较为顺畅的 **(幸运 🌍).** 
+- 我喜欢去用 **现有的编程知识**去想象构建新奇的东西
+- 我也喜欢 **音乐&篮球&健身&田径...** 
+- 我曾经一直想做一名机车手，但现实 **不得不掌握一门吃饭的技术💻**
+- 自大学的专业学习以来，慢慢的对编程产生 **兴趣**.
+- 期间遇到过瓶颈期，遇到过很多困难，也当过一段时间的**老师**
+- **但幸运的是我还是选择了它 ❤️**
+- 
 🔭 我目前工作于湖南长沙 [湖南云畔网络科技有限公司](https://baike.baidu.com/item/%E6%B9%96%E5%8D%97%E4%BA%91%E7%95%94%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/23809593?fr=aladdin)<br/>
 💬如果你对我感兴趣的话，可以加我微信(Scorpio_mt_nov)进一步沟通<br/>
 📫 这是我的邮箱：mt_scorpio@sina.cn<br/>
