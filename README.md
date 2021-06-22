@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  Hi！大家好呀，我是一名web前端开发工程师👋<br/>
 我叫Max 出生于1999年，是怀化学院计算机科学专业的本科学生。我是一个web前端开发人员，目前已有了两年的工作经验。我的技术栈涉及Vue.js,React.js,基于vue的Element-ui，Ant design，iview框架，前端可视化库Echarts和HTML/CSS/Bootstrap。除了编程，我对音乐，篮球，田径也有极大的兴趣。<br/>
-**经常逛的网站**
+**经常逛的网站**<br/>
 <a href="https://medium.com/">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
 </a>
