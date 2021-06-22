@@ -56,13 +56,13 @@ Here are some ideas to get you started:
 - 👨‍🏛 我毕业于一所统招二本院校 **怀化学院**.
 - 💬如果你对我感兴趣的话，可以加我微信(Scorpio_mt_nov)进一步沟通
 - 📫 这是我的邮箱：mt_scorpio@sina.cn
-- 🌱 我正在学习 **TypeScript & 英语**. 
+- 🌱 我正在学习 **TypeScript & 英语**. <br/>
 **技术栈 & 开发工具**<br/>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
-**娱乐工具**
+**娱乐工具**<br/>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
 <code><img height="20" src="https://pic4.zhimg.com/80/v2-c1141bf3b5bc839a3ddcaf471c04be6b_720w.jpg"></code>
