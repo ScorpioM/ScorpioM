@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **ScorpioM/ScorpioM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  Hi！大家好呀，我是一名web前端开发工程师👋<br/>
-我叫Max 出生于1999年，是怀化学院计算机科学专业的本科学生。我是一个web前端开发人员，目前已有了两年的工作经验。我的技术栈涉及Vue.js,React.js,基于vue的Element-ui，Ant design，iview框架，前端可视化库Echarts和HTML/CSS/Bootstrap。除了编程，我对音乐，篮球，田径也有极大的兴趣。
+我叫Max 出生于1999年，是怀化学院计算机科学专业的本科学生。我是一个web前端开发人员，目前已有了两年的工作经验。我的技术栈涉及Vue.js,React.js，Vue 3.0,基于vue的Element-ui，Ant design，iview框架，前端可视化库Echarts和HTML/CSS/Bootstrap。除了编程，我对音乐，篮球，田径也有极大的兴趣。
 <br/>
 <br/>
 **经常逛的网站**
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - 👨‍🏛 我毕业于一所统招二本院校 **怀化学院**.
 - 💬如果你对我感兴趣的话，可以加我微信(Scorpio_mt_nov)进一步沟通
 - 📫 这是我的邮箱：mt_scorpio@sina.cn
-- 🌱 我正在学习 **TypeScript & 英语**. <br/><br/>
+- 🌱 我正在学习 **TypeScript & WebGL & canvas高级 & English**. <br/><br/>
 **技术栈 & 开发工具**<br/><br/>
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
