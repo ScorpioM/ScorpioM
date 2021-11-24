@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  Hi！大家好呀，我是一名web前端开发工程师👋<br/>
-我叫Max 出生于1999年，是怀化学院计算机科学专业的本科学生。我是一个web前端开发人员，目前已有了两年的工作经验。我的技术栈涉及Vue.js,React.js，Vue 3.0,基于vue的Element-ui，Ant design，iview框架，前端可视化库Echarts和HTML/CSS/Bootstrap。除了编程，我对音乐，篮球，田径也有极大的兴趣。
+我叫Max 出生于1999年。我是一个web前端开发人员，目前已有了三年的工作经验。我的技术栈涉及Vue.js,React.js，Vue 3.0,基于vue的Element-ui，Ant design，iview框架，前端可视化库Echarts和HTML/CSS/Bootstrap。除了编程，我对音乐，篮球，田径也有极大的兴趣。
 <br/>
 <br/>
 **经常逛的网站**
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 **谈正事**
-- 🔭 我目前工作于湖南长沙 [湖南云畔网络科技有限公司](https://baike.baidu.com/item/%E6%B9%96%E5%8D%97%E4%BA%91%E7%95%94%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/23809593?fr=aladdin)
+- 🔭 我目前工作于湖南长沙 [树根互联股份有限公司 ](https://www.rootcloud.com/)
 - 👨‍🏛 我毕业于一所统招二本院校 **怀化学院**.
 - 💬如果你对我感兴趣的话，可以加我微信(Scorpio_mt_nov)进一步沟通
 - 📫 这是我的邮箱：mt_scorpio@sina.cn
